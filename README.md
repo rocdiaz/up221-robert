@@ -5,4 +5,4 @@ Hi, I'm a second year student in the MURP program at UCLA. My concentration is t
 The course will cover spatial analysis in an urban setting while thinking critically about transportation, community development, and design.
 ## Objectives 
 - Learn to take notes on my coding. I have usually been unorganized in my coding classes prior and hope to change that.
-- 
+- I hope to create legible maps that are useful not only for practicioners, but also people who might not be totally familiar with urban issues
