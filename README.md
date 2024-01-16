@@ -1,4 +1,5 @@
 # up221-robert
+This is Roberto Diaz's repository for UP221 - Introduction to GIS and Spatial Data Science
 ## About me
 Hi, I'm a second year student in the MURP program at UCLA. My concentration is transportation and I'm interested in parking and housing around Los Angeles as well as financial investments in transportation projects. I'm hoping copious amount of data is available. 
 ## Course
